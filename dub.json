@@ -1,0 +1,10 @@
+{
+	"name": "yuvcut",
+	"description": "A tool to cut yuv files",
+	"copyright": "Copyright © 2016, ruslan",
+	"authors": ["ruslan"],
+	"dependencies":
+	{
+		"darg": "~>0.0.4"
+	}
+}
